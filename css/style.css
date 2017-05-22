@@ -63,7 +63,7 @@ a {
 	text-align: center;
 	color: #20b788;
 	font-family: 'Roboto';
-	font-weight: 400;
+	font-weight: 300;
 	padding-top: 3%;
 	padding-bottom: 1%;
 }
@@ -73,6 +73,19 @@ a {
 	color: #b6b6b6;
 }
 
+#o-meni h1 {
+	text-align: center;
+	font-family: 'Roboto';
+	font-weight: 300;
+	padding-top: 3%;
+}
+
+#o-meni p {
+	margin: 5% 15%;
+	border-left: 5px solid #1eb788;
+	padding-left: 1%;
+}
+
 #iskustvo {
 	background-color: #4e7b7e;
 }
@@ -80,7 +93,7 @@ a {
 #iskustvo h1 {
 	text-align: center;
 	font-family: 'Roboto';
-	font-weight: 400;
+	font-weight: 300;
 	color: #b6b6b6;
 	padding-top: 2%;
 }
