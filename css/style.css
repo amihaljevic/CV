@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400|Roboto:300,400');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	min-width: 320px;
+	font-family: 'Open Sans', 'Roboto', sans-serif;
+}
+
+header {
+	background-color: #024346;
+	position: fixed;
+	top: 0;
+	overflow: hidden;
+	width: 100%;
+}
+
+main {
+	
+}
+
+#uvodna-sekcija {
+	background-color: #024346;
+	padding-bottom: 5%;
+	padding-top: 10%;
+}
+
+nav {
+	font-family: 'Roboto';
+	text-align: center;
+	padding: 2% 0 3% 0;
+}
+
+ul {
+	word-spacing: 5px;
+}
+
+nav ul li {
+	display: inline;
+	text-transform: lowercase;
+	color: #b6b6b6;
+}
+
+nav ul li a {
+	color: #b6b6b6;
+}
+
+a {
+	text-decoration: none;
+}
+
+#uvodna-sekcija img {
+	display: block;
+	margin: auto;
+	width: 20%;
+	border-radius: 50%;
+}
+
+#uvodna-sekcija h1 {
+	text-align: center;
+	color: #20b788;
+	font-family: 'Roboto';
+	font-weight: 400;
+	padding-top: 3%;
+	padding-bottom: 1%;
+}
+
+#uvodna-sekcija p {
+	text-align: center;
+	color: #b6b6b6;
+}
+
+#iskustvo {
+	background-color: #4e7b7e;
+}
+
+#iskustvo h1 {
+	text-align: center;
+	font-family: 'Roboto';
+	font-weight: 400;
+	color: #b6b6b6;
+	padding-top: 2%;
+}
+
+#iskustvo img {
+	display: block;
+	margin: auto;
+	width: 50%;
+	margin-top: 5%;
+	margin-bottom: 1%;
+	border: 1px solid #b6b6b6;
+}
+
+#iskustvo figcaption {
+	text-align: center;
+	padding-bottom: 5%;
+	color: #b6b6b6;
+}
